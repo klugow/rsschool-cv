@@ -2,17 +2,17 @@
 
 ## About me: 
 
-* Lawyer, economist, photografer and junior frontend developer in the future *
+* Lawyer, economist, photographer and junior frontend developer to be
 
-**Languages:** English, German, Russian.
+*Languages:* English, German, Russian.
 
-**Hobbies:** Travel, photoshooting, ski, tennis, fitnes, playing piano and guitar.
+*Hobbies:* Traveling , photoshooting, ski, tennis, fitness, playing the piano and the guitar.
 
-**Job experience:** 5 years as a lawyer, 9 years as a economust in the bigest bank of Russia.
+*Job experience:* 5 years as a lawyer, 9 years as an economist in the biggest bank of Russia.
 
 ## Contacts
 
-**Email:** makarenko.ap@gmail.com
+*Email:* makarenko.ap@gmail.com
 
 
 
