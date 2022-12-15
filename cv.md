@@ -1,17 +1,20 @@
-# Makarenko Andrey Pavlovitch
+# Makarenko Andrey
 
 ## About me: 
 
-* Lawyer, economist, photographer and junior frontend developer to be
+* Web Developer and Front-end starter
 
 *Languages:* English, German, Russian.
 
-*Hobbies:* Traveling , photoshooting, ski, tennis, fitness, playing the piano and the guitar.
+*Job experience:* 5 years as a lawyer, 9 years as an economist in the biggest bank of Russia. Now looking for Developer's career and new knowledge in Front-end aria.
 
-*Job experience:* 5 years as a lawyer, 9 years as an economist in the biggest bank of Russia.
+*Hobbies:* Traveling , photoshooting, ski, tennis, fitness, playing the piano and the guitar.
 
 ## Contacts
 
+* Location: Moscow, Russia
+*Phone:*+79775650858
+*Web:*
 *Email:* makarenko.ap@gmail.com
 
 
