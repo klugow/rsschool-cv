@@ -8,7 +8,8 @@ body {
 }
 
  .main {
-    max-width: 75%;
+    /* max-width: 75%; */
+    max-width: 33%;
     margin: auto;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -20,11 +21,12 @@ body {
 }
 
 .myName h1 {
-    letter-spacing: 25px;
-    padding-left: 23%;
+    letter-spacing: 15px;
+    /* padding-left: 23%; */
     color: #f26d2e;
     text-shadow: #868382 2px 3px 4px;
-    font-size: 40px;
+    font-size: 66px;
+    text-align: center;
 }
 
  .secondBlock {
@@ -39,39 +41,113 @@ body {
     width: 200px;
 }
 
+.nav {
+    
+    margin-top: 75px;
+    /* padding-left: 5px;;
+    padding-right: 5px; */
+    border: 2px solid black;
+    border-radius: 15%;
+    background-color: rgb(15, 119, 232);
+    margin-bottom: 20px;
+    font-size: 22px;
+
+
+}   
+
+.nav li a {
+    text-decoration: none;
+
+}
+
+.nav li {
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    text-align: center;
+    border: 1px solid black;
+    padding: 3px;
+
+}
+
+.nav li a:hover {
+    background: #f20606;
+    color: #fff;
+    /* border-color: indigo; */
+    text-decoration: none;
+
+    }
+
 .hobby {
+    margin-top: 75px;
     padding-left: 50px;;
+    padding-right: 50px;
     border: 2px solid black;
     border-radius: 15%;
     background-color: aquamarine;
     margin-bottom: 20px;
+    font-size: 30px;
+
 }
 
 .work {
+    margin-top: 75px;
+
     padding-left: 50px;;
+    padding-right: 50px;
     border: 2px solid black;
     border-radius: 15%;
     background-color: fuchsia;
     margin-bottom: 20px;
+    font-size: 30px;
 }
 
 .education {
+    margin-top: 75px;
+
     padding-left: 50px;;
+    padding-right: 50px;
     border: 2px solid black;
     border-radius: 15%;
     background-color: rgb(11, 119, 29);
     margin-bottom: 20px;
+    font-size: 30px;
+
 }
 
+.skills {
+    margin-top: 75px;
+
+    padding-left: 50px;;
+    padding-right: 50px;
+    border: 2px solid black;
+    border-radius: 15%;
+    background-color: rgb(225, 84, 13);
+    margin-bottom: 20px;
+    font-size: 30px;
+    /* text-align: center; */
+}
+
+.skills li {
+    list-style-type: none;
+}
+
+
 .footer {
+    margin-top: 75px;
+
     display: flex;
     padding-left: 50px;;
+    padding-right: 50px;
     border: 2px solid black;
     border-radius: 15%;
     background-color: orange;
     margin-bottom: 20px;
-    margin: auto;
-    justify-content: left;
+    /* margin: auto; */
+    /* justify-content: left; */
+    font-size: 16px;
+    align-items: center;
+
 
 }
 
