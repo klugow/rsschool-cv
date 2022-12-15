@@ -14,7 +14,7 @@
 
 * Location: Moscow, Russia
 *Phone:*+79775650858
-*Web:*
+*Web:* https://klugow.github.io/rsschool-cv/
 *Email:* makarenko.ap@gmail.com
 
 
