@@ -8,21 +8,19 @@ body {
 }
 
  .main {
-    /* max-width: 75%; */
     max-width: 33%;
     margin: auto;
     margin-top: 50px;
     margin-bottom: 50px;
 }
 
- .header {
+ .main header {
     display: flex;
     justify-content: center; 
 }
 
 .myName h1 {
     letter-spacing: 15px;
-    /* padding-left: 23%; */
     color: #f26d2e;
     text-shadow: #868382 2px 3px 4px;
     font-size: 66px;
@@ -42,22 +40,19 @@ body {
 }
 
 .nav {
-    
     margin-top: 75px;
-    /* padding-left: 5px;;
-    padding-right: 5px; */
     border: 2px solid black;
     border-radius: 15%;
+    text-align: center;
     background-color: rgb(15, 119, 232);
     margin-bottom: 20px;
     font-size: 22px;
-
-
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.5);
 }   
 
 .nav li a {
     text-decoration: none;
-
+    color: #f2e30b;
 }
 
 .nav li {
@@ -66,19 +61,21 @@ body {
     display: inline;
     text-align: center;
     border: 1px solid black;
+    border-radius: 25%;
+    box-shadow: 2px 2px 2px black;
     padding: 3px;
-
+    font-size: 28px;
 }
 
 .nav li a:hover {
-    background: #f20606;
+    background: #ec0ec0;
     color: #fff;
-    /* border-color: indigo; */
     text-decoration: none;
-
+    border-radius: 25%;
     }
 
 .hobby {
+    text-align: justify;
     margin-top: 75px;
     padding-left: 50px;;
     padding-right: 50px;
@@ -87,12 +84,25 @@ body {
     background-color: aquamarine;
     margin-bottom: 20px;
     font-size: 30px;
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.5);
+}
 
+.code {
+    height: auto;
+    text-align: justify;
+    margin-top: 75px;
+    padding: 15px 50px;
+    border: 2px solid black;
+    border-radius: 15%;
+    background-color: aquamarine;
+    margin-bottom: 20px;
+    font-size: 30px;
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.5);
 }
 
 .work {
+    text-align: justify;
     margin-top: 75px;
-
     padding-left: 50px;;
     padding-right: 50px;
     border: 2px solid black;
@@ -100,11 +110,12 @@ body {
     background-color: fuchsia;
     margin-bottom: 20px;
     font-size: 30px;
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.5);
 }
 
 .education {
+    text-align: justify;
     margin-top: 75px;
-
     padding-left: 50px;;
     padding-right: 50px;
     border: 2px solid black;
@@ -112,12 +123,11 @@ body {
     background-color: rgb(11, 119, 29);
     margin-bottom: 20px;
     font-size: 30px;
-
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.5);
 }
 
 .skills {
     margin-top: 75px;
-
     padding-left: 50px;;
     padding-right: 50px;
     border: 2px solid black;
@@ -125,17 +135,15 @@ body {
     background-color: rgb(225, 84, 13);
     margin-bottom: 20px;
     font-size: 30px;
-    /* text-align: center; */
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.5);
 }
 
 .skills li {
     list-style-type: none;
 }
 
-
 .footer {
     margin-top: 75px;
-
     display: flex;
     padding-left: 50px;;
     padding-right: 50px;
@@ -143,16 +151,9 @@ body {
     border-radius: 15%;
     background-color: orange;
     margin-bottom: 20px;
-    /* margin: auto; */
-    /* justify-content: left; */
     font-size: 16px;
     align-items: center;
-
-
-}
-
-.footer .footer-info {
-  /* display: block; */
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.5);
 }
 
 .footer .logoRS {
@@ -160,5 +161,4 @@ body {
     height: 100px;
     padding-left: 70px;
     cursor: pointer;
-
 }
