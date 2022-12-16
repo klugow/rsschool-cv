@@ -8,16 +8,33 @@ body {
 }
 
  .main {
-    max-width: 33%;
+    max-width: 50%;
     margin: auto;
     margin-top: 50px;
     margin-bottom: 50px;
 }
 
- .main header {
+@media (max-width: 955px) {
+    .main {
+        max-width: 95%;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    .main .header {
+        display: block;
+        justify-content: center; 
+    } 
+    .main .header .firstBlock .foto {
+        display: block;
+        margin: auto;
+
+    }
+  }
+   
+  .main header {
     display: flex;
     justify-content: center; 
-}
+} 
 
 .myName h1 {
     letter-spacing: 15px;
