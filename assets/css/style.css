@@ -29,6 +29,13 @@ body {
         margin: auto;
 
     }
+    .main .myName h1 {
+        letter-spacing: none;
+        color: #d41d10;
+        text-shadow: #868382 2px 3px 4px;
+        font-size: 30px;
+        text-align: center;
+    }
   }
    
   .main header {
@@ -111,14 +118,14 @@ body {
     padding: 15px 50px;
     border: 2px solid black;
     border-radius: 15%;
-    background-color: aquamarine;
+    background-color: rgb(15, 228, 239);
     margin-bottom: 20px;
     font-size: 30px;
     box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.5);
 }
 
 .code code {
-font-size: 12px;
+    font-size: 12px;
 }
 
 .work {
