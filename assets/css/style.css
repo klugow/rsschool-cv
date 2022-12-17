@@ -14,6 +14,11 @@ body {
     margin-bottom: 50px;
 }
 
+.main header {
+    display: flex;
+    margin: auto;
+}
+
 @media (max-width: 955px) {
     .main {
         max-width: 95%;
@@ -36,12 +41,25 @@ body {
         font-size: 30px;
         text-align: center;
     }
+
+    .footer {
+        /* display: block; */
+    }
+    /* .footer .footer-info {
+        display: block;
+        margin: auto;
+    }  */
+    .footer .logoRS {
+        display: block;
+
+    }
+    .footer .logoRS img {
+        width: 50px;
+        position: absolute;
+        left: 70%;
   }
+}
    
-  .main header {
-    display: flex;
-    justify-content: center; 
-} 
 
 .myName h1 {
     letter-spacing: 15px;
@@ -177,7 +195,7 @@ body {
     padding-right: 50px;
     border: 2px solid black;
     border-radius: 15%;
-    background-color: orange;
+    background-color: rgb(241, 160, 10);
     margin-bottom: 20px;
     font-size: 16px;
     align-items: center;
