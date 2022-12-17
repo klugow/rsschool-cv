@@ -41,22 +41,16 @@ body {
         font-size: 30px;
         text-align: center;
     }
-
     .footer {
-        /* display: block; */
-    }
-    /* .footer .footer-info {
         display: block;
-        margin: auto;
-    }  */
-    .footer .logoRS {
-        display: block;
+        position: relative;
 
     }
     .footer .logoRS img {
         width: 50px;
         position: absolute;
-        left: 70%;
+        top: 25px;
+        left: 280px;
   }
 }
    
